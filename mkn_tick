@@ -1,0 +1,1 @@
+MKN_LIB_LINK_LIB=2 MKN_LIB_PRE="" ~/sand/app/maiken/master/bin/build/mkn clean build -gtStOC lib -p array,base,base_model,random,linear_model,prox,hawkes/simulation,hawkes/model,hawkes/inference,preprocessing,robust,survival,solver
